@@ -1,0 +1,95 @@
+HACKING WITH SWIFT by ( Paul Hudson )
+100 Days swift, but i'm learning concept wise.
+
+Completed Topics Day - 1
+
+-> Start Here
+Introduction
+
+
+
+-> Simple types
+Variables
+Strings and integers
+Multi-line strings
+Doubles and booleans
+String interpolation
+Constants
+Type annotations
+Simple types: Summary
+
+
+
+-> Complex types
+Arrays
+Sets
+Tuples
+Arrays vs sets vs tuples
+Dictionaries
+Dictionary default values
+Creating empty collections
+Enumerations
+Enum associated values
+Enum raw values
+Complex types: Summary
+
+
+
+-> Operators and conditions
+Arithmetic Operators
+Operator overloading
+Compound assignment operators
+Comparison operators
+Conditions
+Combining operators
+The ternary operator
+Switch statements
+Range operators
+Operators and conditions summary
+
+
+
+-> Looping
+For loops
+While loops
+Repeat loops
+Exiting loops
+Exiting multiple loops
+Skipping items
+Infinite loops
+Looping summary
+
+
+
+-> Functions
+Writing functions
+Accepting parameters
+Returning values
+Parameter labels
+Omitting parameter labels
+Default parameters
+Variadic functions
+Writing throwing functions
+Running throwing functions
+inout parameters
+Functions summary
+
+
+
+-> Closures
+Creating basic closures
+Accepting parameters in a closure
+Returning values from a closure
+Closures as parameters
+Trailing closure syntax
+Using closures as parameters when they accept parameters
+Using closures as parameters when they return values
+Shorthand parameter names
+Closures with multiple parameters
+Returning closures from functions
+Capturing values
+Closures summary
+
+
+
+Thank you 
